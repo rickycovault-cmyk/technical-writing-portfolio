@@ -40,7 +40,7 @@ Ensure your mobile device is on and connected to internet or wifi.
 - Your username and password are incorrect when logging into your prefered Music Account. 
 - 401 Error: Usually means authentication is missing or invalid. 
 - 403 Error: Usually means user is autheticated but lacks permission. 
-### Trouble Shooting Tips: 
+    ### Trouble Shooting Tips: 
 - Login to your prefered music account on a different device or browser to make sure you have the correct username or password. 
 - Make sure your Caps lock is off. 
 - 401 Errors: Reload or restart the PulsePath app by removing it (aka swiping up) from your recently opened/used app section. Re-open the app and login to your prefered Music Account again.  
