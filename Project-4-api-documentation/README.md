@@ -1,4 +1,4 @@
-#API Documentation
+# API Documentation
 
 ## Get /getHeartRate
 
