@@ -6,7 +6,6 @@
 ## Before you begin...
 - Ensure your device is powered on and connected to the internet (Wi-Fi or mobile data).
 
-
 ## Step 1: Create an Account
 1. Open the Apple app store on your mobile device (Android is not currently supported). 
 2. Search for **PulsePath** and tap **download**. 
@@ -34,7 +33,7 @@
 - Keep the app open during account set-up. 
 - Review all permissions carefully. 
 - Make sure your mobile device is charged above 15% before using the PulsePath app or your workout may not get recorded accurately if your device shuts off mid workout. 
-- Incoming phone calls can be ignored or answered. Answering phone calls will automatically pause your workout. Tap "Continue" once you're done with your phone call to continue your workout where you left off. 
+- Incoming phone calls can be ignored or answered. Answering phone calls will automatically pause your workout. Tap **Continue** once you're done with your phone call to continue your workout where you left off. 
 
 ## Common Issues
 - Your username and password are incorrect when logging into your preferred Music Account. 
