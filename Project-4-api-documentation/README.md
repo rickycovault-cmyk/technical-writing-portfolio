@@ -1,9 +1,9 @@
 # API Documentation
 
-## Get /getHeartRate
+## GET /getHeartRate
 
 ### Description
-Returns the user's current heart rate in real time. 
+Returns the user's current heart rate.
 
 ### Parameters
 - userId (string) - required
@@ -15,7 +15,7 @@ GET /getHeartRate?userId=12345
 {"heartRate": 81, "unit": "bpm"}
 
 
-## Get /getSongMatch
+## GET /getSongMatch
 
 ### Description 
 Returns a list of 10 different songs matching the user's current heart rate. 
@@ -37,14 +37,14 @@ GET /getSongMatch?userId=12345&bpm=80&limit=10
 }
 
 
-## Get /connectMusic
+## GET /connectMusic
 
 ### Description 
 Connect a user's preferred music account. 
 
 ### Parameters
 - userId (string) - required
-- provider (string) - required (e.g., spotify)
+- provider (string) - required (e.g., Spotify)
 
 ### Example Request
 GET /connectMusic?userId=12345&provider=spotify
